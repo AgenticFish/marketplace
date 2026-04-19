@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "agenticfish",
+  "owner": {
+    "name": "AgenticFish"
+  },
+  "metadata": {
+    "description": "AgenticFish 的 Claude Code 插件集合",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "composir",
+      "source": {
+        "source": "github",
+        "repo": "AgenticFish/composir"
+      },
+      "description": "科普文写作工作流：brainstorm → plan → write → review",
+      "version": "0.1.0",
+      "author": {
+        "name": "AgenticFish"
+      },
+      "homepage": "https://github.com/AgenticFish/composir",
+      "keywords": ["writing", "brainstorming", "planning", "popular-science"],
+      "category": "writing"
+    }
+  ]
+}
