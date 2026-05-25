@@ -23,6 +23,21 @@
       "homepage": "https://github.com/AgenticFish/composir",
       "keywords": ["writing", "brainstorming", "planning", "popular-science"],
       "category": "writing"
+    },
+    {
+      "name": "archievement",
+      "source": {
+        "source": "github",
+        "repo": "AgenticFish/archievement"
+      },
+      "description": "Private work-memory archiver — distills Claude Code session content into a structured local markdown tree, with reports and perf-review draft generation.",
+      "version": "0.1.0",
+      "author": {
+        "name": "AgenticFish"
+      },
+      "homepage": "https://github.com/AgenticFish/archievement",
+      "keywords": ["personal-tracking", "work-log", "perf-review", "markdown"],
+      "category": "productivity"
     }
   ]
 }
