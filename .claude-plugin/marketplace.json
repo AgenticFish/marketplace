@@ -31,7 +31,7 @@
         "repo": "AgenticFish/archievement"
       },
       "description": "Private work-memory archiver — distills Claude Code session content into a structured local markdown tree, with reports and perf-review draft generation.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "author": {
         "name": "AgenticFish"
       },
